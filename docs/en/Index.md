@@ -46,7 +46,7 @@ ABP also simplifies (and even automates wherever possible) cross cutting concern
 Application Modules provides pre-built application functionalities;
 
 * [**Account**](Modules/Account.md): Provides UI for the account management and allows user to login/register to the application.
-* **[Identity](Modules/Identity.md)**: Manages organization units, roles, users and their permissions, based on the Microsoft Identity library.
+* [**Identity**](Modules/Identity.md): Manages organization units, roles, users and their permissions, based on the Microsoft Identity library.
 * [**IdentityServer**](Modules/IdentityServer.md): Integrates to IdentityServer4.
 * [**Tenant Management**](Modules/Tenant-Management.md): Manages tenants for a [multi-tenant](Multi-Tenancy.md) (SaaS) application.
 
